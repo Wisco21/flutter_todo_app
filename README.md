@@ -1,4 +1,4 @@
-# todo
+# Flutter Todo_App
 
 A todo app helping you to keep track of your work and your second memory
 
